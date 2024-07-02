@@ -26,7 +26,7 @@
   <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719795929213839
   <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719792312759549
   <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719786933942769
-  <br> During these sessions, I was mostly crocheting the outer fabric.  Once that was done (in the fourth session, second one from the top), I began to sew.  I sewed one side of the inner lining together to form the pocket.
+  <br> During these sessions, I was mostly crocheting the outer fabric.  Once that was done (in the fourth session, second one from the top), I began to sew.  I sewed one side of the inner lining together to form the pocket.  adding this to test something
 </p>
 
 </body>
