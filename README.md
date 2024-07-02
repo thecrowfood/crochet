@@ -3,7 +3,9 @@
 <body>
 
 <h2>I made a crochet pencil case.</h2>
-<p>There aren't a lot of commits because I just figured out how to do this, but I have a lot of pictures I will be attaching, one from each thread.  I will also be attaching all of the threads here.  It will go from most recent to least.  Dates may be a little messed up because I can't figure out how to get exact timestamps from the messages.  I'm trying my best to organize it well, though.  </p>
+
+<p>There aren't a lot of commits because I just figured out how to do this, but I have a lot of pictures I will be attaching, one from each thread.  I will also be attaching all of the threads here.  It will go from most recent to least.  Dates may be a little messed up because I can't figure out how to get exact timestamps from the messages.  I'm trying my best to organize it well, though.  
+</p>
 
 <p> Second of July, 2024 - One session. 
   <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719950233057429 
@@ -16,6 +18,14 @@
   <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719865583658189 
   <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719847360851759 
   <br>During these sessions, I was working on sewing various parts together.
+</p>
+<hr>
+<p>Thirtieth of June, 2024 - Five sessions, I believe.
+  <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719843405506709
+  <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719800065438299
+  <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719795929213839
+  <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719792312759549
+  <br> https://hackclub.slack.com/archives/C06SBHMQU8G/p1719786933942769
 </p>
 
 </body>
